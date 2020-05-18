@@ -47,13 +47,13 @@ Most of the philosophers who take this view do not think themselves pessimists o
 
 Politics is coercive: we cannot stand up to our responsibility as governors or citizens unless we suppose that the moral and other principles on which we act or vote are objectively true. It is not good enough for an official or voter to declare that the theory of justice on which he acts pleases him. Or that it accurately expresses his emotions or attitudes or aptly states how he plans to live. Or that his political principles are drawn from his nation’s traditions and so need not claim larger truth.③ Any nation’s history and contemporary politics are a kaleidoscope of conflicting principle and shifting prejudice: any formulation of the nation’s “traditions” must therefore be an interpretation that, as Chapter 7 argues, must be rooted in independent assumptions about what is really true. Of course, people will disagree about which conception of justice is really true. But those in power must believe that what they say is so. So the old philosophers’ question—Can moral judgments really be true?—is a foundational, inescapable, question in political morality. We cannot defend a theory of justice without also defending, as part of the same enterprise, a theory of moral objectivity. It is irresponsible to try to do without such a theory.
 
-I must now summarize what might seem philosophically the most radical view I defend: the metaphysical independence of value.④ It is a familiar, perfectly ordinary idea that some acts—torturing babies for—are wrong in themselves, not just because people think them wrong. They would still be wrong even if, incredibly, no one thought so. You might not believe that; some form of moral subjectivism might seem more plausible to you. But whether it is true is a matter of moral judgment and argument. Most moral philosophers think, on the contrary, that the idea of what they call “mind-independent” moral truth takes us outside morality into metaphysics, that it urges us to consider whether there are chimerical properties or entities “in the world” that are half moral—how else could they make mind-independent moral claims true?— but also half nonmoral—how else could they “ground” moral claims or make them objectively true? They urge a colonial philosophy: setting up embassies and garrisons of science within value discourse to govern it properly.
+I must now summarize what might seem philosophically the most radical view I defend: the metaphysical independence of value.④ It is a familiar, perfectly ordinary idea that some acts—torturing babies for—are wrong in themselves, not just because people think them wrong. They would still be wrong even if, incredibly, no one thought so. You might not believe that; some form of moral subjectivism might seem more plausible to you. But whether it is true is a matter of moral judgment and argument. Most moral philosophers think, on the contrary, that the idea of what they call “mind-independent” moral truth takes us outside morality into metaphysics, that it urges us to consider whether there are chimerical properties or entities “in the world” that are half moral—how else could they make mind-independent moral claims true?—but also half nonmoral—how else could they “ground” moral claims or make them objectively true? They urge a colonial philosophy: setting up embassies and garrisons of science within value discourse to govern it properly.
 
 Ordinary people sometimes express the idea that some acts are wrong in themselves by referring to moral “facts”: “It is a moral fact that torture is always wrong.” Trouble arrives, however, when philosophers make a meal of these innocent references by supposing them to make a further claim that adds something to the initial moral claim: something metaphysical about moral particles or properties—we might call these “morons.” They therefore announce what I believe to be entirely bogus philosophical projects. They say that moral philosophy must aim to “reconcile” the moral and the natural worlds. Or to align the “practical” perspective we take when living our lives with the “theoretical” perspective from which we study ourselves as part of nature. Or to show how we can be “in touch” with the chimeras or, if we cannot, what reason we could have to think our moral opinions sound rather than mere accidents. These bogus questions and projects threaten puzzlement on all sides. Self-described “realists” try to make good on the projects, sometimes by claiming mysterious interaction between morons and ourselves. I discuss these attempts in Chapter 4. Self-described “anti- realists,” discovering that there are no morons in “the world,” or that in any case we have no way to be “in touch” with them, declare we must make up values for ourselves, an entirely bizarre assignment. How can they be values if we can just make them up? I describe these efforts in Chapter 3.
 
 Each of these different “realist” and “anti-realist” projects evaporates when we take the independence of value seriously. Then there is no more need to “reconcile” a practical and a theoretical point of view than there is to reconcile physical facts about a book or psychological facts about its author with an interpretation of its poetry that ignores both. The only intelligible case for the “mind-independence” of some moral judgment is a moral argument showing that it would still be true even if no one thought it was; the only intelligible case against it is a moral argument for the opposite claim. In Chapter 6 I describe a theory of moral knowledge, responsibility, and conflict, and in Chapter 8 a theory of moral truth. These theories are drawn from within morality—they are themselves moral judgments. That is what independence means in moral philosophy. It is a natural and entirely familiar view: it is how we think. There is no noncircular argument against it. There is no argument that does not presuppose rather than establish a demand for philosophical colonialism.
 
-Philosophers who deny independence insist on a distinction between two branches of moral philosophy. They distinguish between questions of morality—Does justice require universal health care?—and questions about morality—Can the claim that justice requires health care be true, or does it merely express an attitude? They call the former questions “substantive” or “first-order” questions and the latter “meta-ethical” or “second-order” questions. They assume that addressing meta-ethical issues requires philosophical argument rather than moral judgment. They then divide into the two camps I mentioned. Realists argue that the best nonmoral philosophical arguments show that moral judgment can indeed be objectively true, or are factual, or describe reality, or something of the sort. “Anti-realists” argue that the best arguments show exactly the contrary, what ever the contrary is. (Recently other philosophers have speculated whether these two views really are different and, if so, how to tell the difference.⑤)
+Philosophers who deny independence insist on a distinction between two branches of moral philosophy. They distinguish between questions of morality—Does justice require universal health care?—and questions about morality—Can the claim that justice requires health care be true, or does it merely express an attitude? They call the former questions “substantive” or “first-order” questions and the latter “meta-ethical” or “second-order” questions. They assume that addressing meta-ethical issues requires philosophical argument rather than moral judgment. They then divide into the two camps I mentioned. Realists argue that the best nonmoral philosophical arguments show that moral judgment can indeed be objectively true, or are factual, or describe reality, or something of the sort. “Anti-realists” argue that the best arguments show exactly the contrary, whatever the contrary is. (Recently other philosophers have speculated whether these two views really are different and, if so, how to tell the difference.⑤)
 
 The independence of value plays an important role in the more general thesis of this book: that the various concepts and departments of value are interconnected and mutually supporting. The daunting philosophers’ questions I mentioned seem to encourage a foxy response. Where do values come from? Are they really “out there” in the universe, part of what finally just is? If we understand these as metaphysical questions about the fundamental character of reality rather than questions calling for moral or value judgments, then we are well on the way to some important degree of pluralism about values. Suppose we think that values really are “out there” waiting to be perceived; that they are, in their own way, as brute as gasses and rocks. There would be no reason to think that these brute values are always nicely knit together in the mutually accommodating way that hedgehogs imagine. On the contrary, it would seem more plausible that values conflict—as they certainly seem to do, for instance, when it would be an act of kindness to tell someone a lie or when the police can save some people from a terrible death only by torturing other people.
 
@@ -61,7 +61,7 @@ The contrary metaphysical opinion yields much the same result. We say: “It’s
 
 On the other hand, if I am right that there are no nonevaluative, second-order, meta- ethical truths about value, then we cannot believe either that value judgments are true when they match special moral entities or that they cannot be true because there are no special entities for them to match. Value judgments are true, when they are true, not in virtue of any matching but in view of the substantive case that can be made for them. The moral realm is the realm of argument, not brute, raw fact. Then it is not implausible—on the contrary—to suppose that there are no conflicts but only mutual support in that realm. Or, what comes to the same thing, that any conflicts we find intractable show not disunity but a more fundamental unity of value that produces these conflicts as substantive results. Those are the conclusions I defend in Chapters 5 and 6.
 
-How shall we classify the independence thesis? In what philosophical pigeonhole does it rest? Is it a kind of moral realism? Or constructivism? Or even anti-realism? Is it itself a nonmoral metaphysical theory? Or a quietist or minimalist theory that just ignores rather than really escapes troublesome metaphysics? None of these labels fits exactly—or exactly doesn’t fit— because each is stained with the mistaken assumption that there are important philosophical questions about value that are not to be answered with value judgments. Please forget the pigeonholes as you read this book.
+How shall we classify the independence thesis? In what philosophical pigeonhole does it rest? Is it a kind of moral realism? Or constructivism? Or even anti-realism? Is it itself a nonmoral metaphysical theory? Or a quietist or minimalist theory that just ignores rather than really escapes troublesome metaphysics? None of these labels fits exactly—or exactly doesn’t fit—because each is stained with the mistaken assumption that there are important philosophical questions about value that are not to be answered with value judgments. Please forget the pigeonholes as you read this book.
 
 Responsibility
 
@@ -102,7 +102,7 @@ The ancient moral philosophers were philosophers of self-affirmation. Plato and 
 The god-intoxicated philosophers of the early Christian period and of the Middle Ages had the same goal, but they had been given—or so they thought—an obvious formula for achieving it. Living well means living in God’s grace, which in turn means following the moral law God laid down as the law of nature. That formula has the happy consequence of fusing two conceptually distinct issues: how people have come to hold their ethical and moral beliefs, and why those ethical and moral beliefs are correct. God’s power explains the genesis of conviction: we believe what we do because God has revealed it to us directly or through the powers of reason he created in us. God’s goodness also justifies the content of conviction: if God is the author of our moral sense, then of course our moral sense is accurate. The fact of our belief is in itself proof of our belief: what the Bible and God’s priests say must therefore be true. The formula did not make for entirely smooth sailing. The Christian philosophers were troubled, above all, by what they called the problem of evil. If God is all-powerful and the very measure of goodness, why is there so much suffering and injustice in the world? But they found no reason to doubt that such puzzles were to be solved within the template provided by
 their theology. The morality of self-affirmation was firmly in control.
 
-The philosophical explosions of the late Enlightenment ended that morality’s long reign. The most influential philosophers insisted on a firm epistemological code. We can endorse our beliefs as true, they insisted, only if the best explanation of why we hold those beliefs vouches for their truth, and it can do that only if it shows those beliefs to be either the product of irresistible reason, like mathematics, or the effect of the impact of the natural world on our brains like the empirical discoveries of the nascent but already stunning natural sciences. That new epistemological regime posed an immediate problem for convictions about value, a problem that has challenged philosophy since. We are not entitled to think our moral convictions true unless we find these  convictions either required by pure reason or produced by something “out there” in the world. Thus was born the Gibraltar of all mental blocks: that something other than value must underwrite value if we are to take value seriously.
+The philosophical explosions of the late Enlightenment ended that morality’s long reign. The most influential philosophers insisted on a firm epistemological code. We can endorse our beliefs as true, they insisted, only if the best explanation of why we hold those beliefs vouches for their truth, and it can do that only if it shows those beliefs to be either the product of irresistible reason, like mathematics, or the effect of the impact of the natural world on our brains like the empirical discoveries of the nascent but already stunning natural sciences. That new epistemological regime posed an immediate problem for convictions about value, a problem that has challenged philosophy since. We are not entitled to think our moral convictions true unless we find these convictions either required by pure reason or produced by something “out there” in the world. Thus was born the Gibraltar of all mental blocks: that something other than value must underwrite value if we are to take value seriously.
 
 The Christian and other religious philosophers could respect part of the new epistemological code because they did find something “out there” that underwrote conviction. But they could do so only by violating the naturalistic condition. Philosophers who accepted that further condition found the code more challenging. If the best explanation of why we think theft or murder wrong is to be found not in God’s beneficent will but in some natural disposition of human beings to sympathize with one another’s suffering, for instance, or in the convenience to us of the conventional arrangements of property and security that we have contrived, then the best explanation of these beliefs contributes nothing to their justification. On the contrary: the disconnection between the cause of our ethical and moral beliefs and any justification of those beliefs is in itself grounds for suspicion that these beliefs are not actually true, or at least that we have no reason to think them true.
 
@@ -143,19 +143,19 @@ Bentham (17)
 Christian (16)
 colonial philosophy (9), philosophical colonialism (10)
 compatibility (12)
-democracy (5): each citizen participates as an equal partner 
-  he has an equal voice and an equal stake in the result
+democracy (5): each citizen participates as an equal partner
+ he has an equal voice and an equal stake in the result
 dignity (13, 419)
-  two principles of (420): responsibility and being positive
+ two principles of (420): responsibility and being positive
 distributive justice (2, 3), resource equality
 economist (17)
 equality (2):
-  two reigning principles of a legitimate government
-    equal concern for fate
-    full respect for personal/ethical responsibility
+ two reigning principles of a legitimate government
+ equal concern for fate
+ full respect for personal/ethical responsibility
 ethical responsibility is objective (13)
 ethics: the study of how to live well (13)
-  concern and responsibility
+ concern and responsibility
 free will
 Freud (17)
 Hobbes (17, 18)
@@ -163,14 +163,14 @@ Hume (17)
 impersonal consequentialism (18)
 independence (10)
 integration (5): unity of values
-  integration is a necessary condition of truth
+ integration is a necessary condition of truth
 intellectual responsibility about value is itself an important value
 interpretation:
-  depends on values
-  we share moral concepts because we share social practices and experiences in which these concepts figure
-  we take the concepts to describe values
-  we disagree because we interpret the practices we share rather differently
-  moral reasoning must be interpretive
+ depends on values
+ we share moral concepts because we share social practices and experiences in which these concepts figure
+ we take the concepts to describe values
+ we disagree because we interpret the practices we share rather differently
+ moral reasoning must be interpretive
 interpretive concepts (6), depending on values/descriping values
 justice: equality, liberty, democracy, law
 Kant (19)
@@ -179,10 +179,10 @@ liberty: that part of your freedom that government would do wrong to constrain
 living well vs. having a good life (419)
 meta-ethical (10)
 metaphysical independence of value (9):
-  The only intelligible case for the “mind-independence” of some moral judgment is a moral argument showing that it would still be true even if no one thought it was
-  independence of value: all arguments of/about morality are themselves moral judgements
-  the moral realm is the realm of argument
-  independence from science and metaphysics
+ The only intelligible case for the “mind-independence” of some moral judgment is a moral argument showing that it would still be true even if no one thought it was
+ independence of value: all arguments of/about morality are themselves moral judgements
+ the moral realm is the realm of argument
+ independence from science and metaphysics
 Mill (18)
 moral judgments: interpretations of basic moral concepts (12)
 moral objectivity (8)
@@ -207,7 +207,7 @@ Sidgwick (18)
 subjectivism (9)
 theory of interpreation: value-based
 truth, character of
-  an interpretive concept (418)
+ an interpretive concept (418)
 unity of value (7): the truth about living well and being good and what is wonderful is not only coherent but mutually supporting
 value: value judgments can be true (417); has truth and is indivisible
 Value judgments are true, when they are true, in view of the substantive case that can be made for them (11)
