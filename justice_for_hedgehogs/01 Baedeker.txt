@@ -7,7 +7,7 @@ That idea—that ethical and moral values depend on one another—is a creed; it
 
 My advance summary could start in any chapter, fanning out from there, tracing the implications of that chapter for the rest. But I think it best to start at the end of the book, with political morality and justice, so that readers particularly interested in politics will have an advance understanding of why I think that the more abstract philosophical discussions of the book are required steps to what concerns them most. I hope that starting the summary there will also encourage other readers whose greater interest lies in more mainstream issues of philosophy—meta-ethics, metaphysics, and meaning—to find practical importance in what they might believe to be abstruse philosophical issues.
 
-Justice
+Justice (2)
 
 Equality. No government is legitimate unless it subscribes to two reigning principles. First, it must show equal concern for the fate of every person over whom it claims dominion. Second, it must respect fully the responsibility and right of each person to decide for himself how to make something valuable of his life. These guiding principles place boundaries around acceptable theories of distributive justice—theories that stipulate the resources and opportunities a government should make available to people it governs. I put the matter that way, in terms of what governments should do, because any distribution is the consequence of official law and policy: there is no politically neutral distribution. Given any combination of personal qualities of talent, personality, and luck, what a person will have by way of resource and opportunity will depend on the laws in place where he is governed. So every distribution must be justified by showing how what government has done respects these two fundamental principles of equal concern for fate and full respect for responsibility.
 
@@ -29,7 +29,7 @@ Law. Political philosophers insist on yet another conflict among political value
 
 You will by now have formed a suspicion. Poseidon had a son, Procrustes, who had a bed; he suited his guests to his bed by stretching or lopping them until they fit. You might well think me Procrustes, stretching and lopping conceptions of the great political virtues so that they neatly fit one another. I would then be achieving unity on the cheap: a meaningless victory. But I mean to submit each of the political conceptions I describe to the test of conviction. I will not rely on any assumption that a theory is sound just because it fits with other theories we also find agreeable. I hope to develop integrated conceptions that all seem right in themselves, at least after reflection. I do make an independent and very powerful claim, however. I argue throughout the book that in political morality integration is a necessary condition of truth. We do not secure finally persuasive conceptions of our several political values unless our conceptions do mesh. It is the fox who wins too easily: it is his apparent victory, now widely celebrated, that is hollow.
 
-Interpretation
+Interpretation (6)
 
 The first step toward that important conclusion, about integration and truth, requires facing up to an immediate challenge. I sketched a series of claims about the true meaning of a variety of political concepts. How can I show that one conception of equality or liberty or democracy is right and rival conceptions wrong? We must pause to consider what political concepts are and how we might be said to agree or disagree about their application. If you and I mean something entirely different by “democracy,” then our discussion about whether democracy requires that citizens have an equal stake is pointless: we are simply talking past one another. My claims about the best understanding of the political virtues would then count only as statements about how I propose to use certain words. I could not claim that I am right and others wrong.
 
@@ -39,11 +39,11 @@ We must therefore recognize that we share some of our concepts, including the po
 
 I describe interpretive concepts much more fully in Chapter 8. Chapter 7 takes up a more basic set of questions about interpretation. We interpret in many genres beyond politics: in conversation, law, poetry, religion, history, sociology, and psychodynamics. Can we provide a general theory of interpretation that holds for all these genres? We will better understand the standards that should govern our interpretation of the distinctly political concepts if we can. I describe a popular general theory of interpretation: that it always aims to retrieve the intention or other psychological state of some author or creator. That theory is apt in some circumstances in some genres and inapt in others; we need a more general theory of interpretation that explains when and why the intention-retrieval goal is plausible. I suggest a value-based general theory. Interpreters have critical responsibilities, and the best interpretation of a law or a poem or an epoch is the interpretation that best realizes those responsibilities on that occasion. The best interpretation of Yeats’s poem “Sailing to Byzantium” is the interpretation that deploys or assumes the best account of the value of interpreting poetry, and reads the poem so as to show its value in that light. But because interpreters disagree about their responsibilities, because they disagree about the value of interpreting poetry, they disagree about how to read that poem or any other object of interpretation.
 
-Truth and Value
+Truth and Value (7)
 
 I argue, then, that political morality depends on interpretation and that interpretation depends on value. It has become obvious by now, I suppose, that I believe that there are objective truths about value. I believe that some institutions really are unjust and some acts really are wrong no matter how many people believe that they are not. The contrary view is now common, however. It seems absurd to a great many philosophers—and to a great many other people as well—to suppose that there are values “out there” in the universe awaiting discovery by human beings who have some mysterious faculty of value apprehension. We must understand value judgments, they say, in some wholly different way. We must accept that there is no objective truth about value that is independent of the beliefs or attitudes of people who judge value: we must understand their claims about what is just or unjust, right or wrong, saintly or wicked, as simply expressions of their attitudes or emotions, or recommendations for others to follow, or personal commitments they undertake, or proposed constructions of guides for their own lives.
 
-Most of the philosophers who take this view do not think themselves pessimists or nihilists. On the contrary. They suppose that we can live perfectly good lives—and intellectually more responsible lives—if we give up the myth of objective in dependent values and concede that our value judgments only express our attitudes and commitments. Their arguments and examples show that they have our private lives rather than our politics in mind, however. I think them wrong about private lives: I argue in Chapter 9 that our dignity requires us to recognize that whether we live well is not just a matter of whether we think we do. But they are even more plainly wrong about politics: it is our politics, more than any other aspect of our lives, that denies us the luxury of skepticism about value.
+Most of the philosophers who take this view do not think themselves pessimists or nihilists. On the contrary. They suppose that we can live perfectly good lives—and intellectually more responsible lives—if we give up the myth of objective independent values and concede that our value judgments only express our attitudes and commitments. Their arguments and examples show that they have our private lives rather than our politics in mind, however. I think them wrong about private lives: I argue in Chapter 9 that our dignity requires us to recognize that whether we live well is not just a matter of whether we think we do. But they are even more plainly wrong about politics: it is our politics, more than any other aspect of our lives, that denies us the luxury of skepticism about value.
 
 Politics is coercive: we cannot stand up to our responsibility as governors or citizens unless we suppose that the moral and other principles on which we act or vote are objectively true. It is not good enough for an official or voter to declare that the theory of justice on which he acts pleases him. Or that it accurately expresses his emotions or attitudes or aptly states how he plans to live. Or that his political principles are drawn from his nation’s traditions and so need not claim larger truth.③ Any nation’s history and contemporary politics are a kaleidoscope of conflicting principle and shifting prejudice: any formulation of the nation’s “traditions” must therefore be an interpretation that, as Chapter 7 argues, must be rooted in independent assumptions about what is really true. Of course, people will disagree about which conception of justice is really true. But those in power must believe that what they say is so. So the old philosophers’ question—Can moral judgments really be true?—is a foundational, inescapable, question in political morality. We cannot defend a theory of justice without also defending, as part of the same enterprise, a theory of moral objectivity. It is irresponsible to try to do without such a theory.
 
@@ -63,7 +63,7 @@ On the other hand, if I am right that there are no nonevaluative, second-order, 
 
 How shall we classify the independence thesis? In what philosophical pigeonhole does it rest? Is it a kind of moral realism? Or constructivism? Or even anti-realism? Is it itself a nonmoral metaphysical theory? Or a quietist or minimalist theory that just ignores rather than really escapes troublesome metaphysics? None of these labels fits exactly—or exactly doesn’t fit—because each is stained with the mistaken assumption that there are important philosophical questions about value that are not to be answered with value judgments. Please forget the pigeonholes as you read this book.
 
-Responsibility
+Responsibility (11)
 
 If, as I claim, a successful theory of justice is moral all the way down, then any sharp disagreement about justice is likely to survive all the way down as well. There is no neutral scientific or metaphysical plane on which we can stand finally to adjudicate which of different views about equal concern or liberty or democracy or any other opinion about right or wrong or good or bad is the best or true one. That means that we must pay considerable attention to another important moral virtue: moral responsibility. Though we cannot expect agreement from our fellow citizens, we can nevertheless demand responsibility from them. We must, therefore, develop a theory of responsibility that has sufficient force so that we can say to people, “I disagree with you, but I recognize the integrity of your argument. I recognize your moral responsibility.” Or, “I agree with you, but you have not been responsible in forming your opinion. You’ve thrown a coin or believed what you’ve heard on a biased television network. It’s only an accident that you’ve arrived at the truth.”
 
@@ -73,7 +73,7 @@ Our moral judgments are interpretations of basic moral concepts, and we test tho
 
 In Chapter 10 I turn to an ancient threat that offers to make everything in my account of responsibility pointless: the apparently catastrophic idea that we can have no responsibility at all because we lack free will. I argue for what philosophers call a “compatibilist” view: that responsibility is compatible with any assumption we can sensibly entertain about what causes our various decisions and what the neural consequences are of those decisions. I argue that the character and extent of our responsibility for our actions turns rather on an ethical question: What is the character of a life well lived? I emphasize here and throughout the book the distinction between ethics, which is the study of how to live well, and morality, which is the study of how we must treat other people.
 
-Ethics
+Ethics (13)
 
 How, then, should we live? In Part Three I argue that we each have a sovereign ethical responsibility to make something of value of our own lives, as a painter makes something valuable of his canvas. I rely on the authority of Part One, about truth in value, to argue that ethical responsibility is objective. We want to live well because we recognize that we should live well, rather than the other way around. In Part Four I argue that our various responsibilities and obligations to others flow from that personal responsibility for our own lives. But only in some special roles and circumstances—principally in politics—do these responsibilities to others include any requirement of impartiality between them and ourselves.
 
@@ -81,26 +81,25 @@ We must treat the making of our lives as a challenge, one we can perform well or
 
 Dignity and self-respect—whatever these turn out to mean—are indispensable conditions of living well. We find evidence for that claim in how most people want to live: to hold their heads high as they struggle for all the other things they want. We find more evidence in the otherwise mysterious phenomenology of shame and insult. We must explore dignity’s dimensions. At the outset of this summary I described two fundamental principles of politics: a requirement that government treat those it governs with equal concern, and a further requirement that it respect, as we may now put it, its subjects’ ethical responsibilities. In Chapter 9 I construct the ethical analogues of these two political principles. People must take their own lives seriously: they must accept that it is objectively important how they live. People must take their ethical responsibility seriously as well: they must insist on the right—and exercise that right—to make ethical decisions finally for themselves. Each of these principles needs much elaboration. I offer part of what is needed in Chapter 9, but the application of the two principles in later chapters, as well as the discussion of determinism and free will I mentioned, furnish much more detail.
 
-Morality
+Morality (14)
 
 Philosophers ask: Why be moral? Some take this question as strategic. How can we tempt wholly amoral people to mend their ways? The question is more profitably understood in a very different way: as asking how we can account for the appeal of morality that we already feel. That is a profitable question because answering it not only improves self-understanding but helps to refine the content of morality. It helps us to see more clearly what, if we are to be moral, we must do.
 
 If we can connect morality to the ethics of dignity in the way I propose, we will have an effective answer to the philosophers’ question understood that way. We can then reply that we are drawn to morality in the way we are drawn to other dimensions of self-respect. I use many of the ideas already mentioned in this summary to make a case for that reply: particularly the character of interpretation and of interpretive truth and the independence of both ethical and moral truth from science and metaphysics. But I rely mainly on Immanuel Kant’s thesis that we cannot adequately respect our own humanity unless we respect humanity in others. Chapter 11 sets out the abstract basis for that interpretive integration of ethics and morality, and considers objections to the feasibility of that project. Chapters 12, 13, and 14 take up a series of central moral issues. When must someone who properly values his own dignity aid others? Why must he not harm them? How and why does he incur special responsibilities to some of them through deliberate acts like promising and also through relationships with them that are often involuntary? We encounter old philosophical questions pursuing these various topics. How should numbers count in our decisions about whom we should aid? What responsibility do we have for unintended harm? When may we cause harm to some people in order to aid others? Why do promises create obligations? Do we have obligations just in virtue of our membership in political, ethnic, linguistic, and other communities?
 
-Politics
+Politics (15)
 
 Part Four ends with that transition to Part Five, and the book ends where I began this summary: in a theory of justice. My argument draws that theory from what has gone before. I hope, by presenting my argument backward in this introductory chapter, to emphasize the interdependence of the book’s several themes. Chapter 15 argues that much political philosophy suffers from a failure to treat the main political concepts as interpretive, and the remaining chapters try to correct that mistake. I defend the conceptions of these concepts I summarized earlier and claim for them the kind of truth only a successful integration can claim. The last chapter is epilogue: it repeats the
 claim, now through the lens of dignity, that value has truth and that value is
 indivisible.
 
-A Just So Story
+A Just So Story (15)
 
 I do not ask you to take the following conjectures seriously as intellectual history; they are not subtle or detailed or—I’m sure—correct enough for that. But whatever defects my account may have as history, it might help you to understand better the argument I just summarized by seeing how I conceive its place in a large historical story. At the end, in the Epilogue, I tell the same story more briefly and differently—and add a challenge.
 
 The ancient moral philosophers were philosophers of self-affirmation. Plato and Aristotle saw the human situation in the terms I identified: we have lives to live and we should want to live those lives well. Ethics, they said, commands us to seek “happiness”; they meant not episodic glows of pleasure but the fulfillment of a successful life conceived as a whole. Morality also has its commands: these are captured in a set of virtues that include the virtue of justice. Both the nature of happiness and the content of these virtues are initially indistinct: if we mean to obey the commands of both ethics and morality, we must discover what happiness really is and what the virtues really demand. This requires an interpretive project. We must identify conceptions of happiness and of the familiar virtues that fit well together, so that the best understanding of morality flows from and helps define the best understanding of ethics.
 
-The god-intoxicated philosophers of the early Christian period and of the Middle Ages had the same goal, but they had been given—or so they thought—an obvious formula for achieving it. Living well means living in God’s grace, which in turn means following the moral law God laid down as the law of nature. That formula has the happy consequence of fusing two conceptually distinct issues: how people have come to hold their ethical and moral beliefs, and why those ethical and moral beliefs are correct. God’s power explains the genesis of conviction: we believe what we do because God has revealed it to us directly or through the powers of reason he created in us. God’s goodness also justifies the content of conviction: if God is the author of our moral sense, then of course our moral sense is accurate. The fact of our belief is in itself proof of our belief: what the Bible and God’s priests say must therefore be true. The formula did not make for entirely smooth sailing. The Christian philosophers were troubled, above all, by what they called the problem of evil. If God is all-powerful and the very measure of goodness, why is there so much suffering and injustice in the world? But they found no reason to doubt that such puzzles were to be solved within the template provided by
-their theology. The morality of self-affirmation was firmly in control.
+The god-intoxicated philosophers of the early Christian period and of the Middle Ages had the same goal, but they had been given—or so they thought—an obvious formula for achieving it. Living well means living in God’s grace, which in turn means following the moral law God laid down as the law of nature. That formula has the happy consequence of fusing two conceptually distinct issues: how people have come to hold their ethical and moral beliefs, and why those ethical and moral beliefs are correct. God’s power explains the genesis of conviction: we believe what we do because God has revealed it to us directly or through the powers of reason he created in us. God’s goodness also justifies the content of conviction: if God is the author of our moral sense, then of course our moral sense is accurate. The fact of our belief is in itself proof of our belief: what the Bible and God’s priests say must therefore be true. The formula did not make for entirely smooth sailing. The Christian philosophers were troubled, above all, by what they called the problem of evil. If God is all-powerful and the very measure of goodness, why is there so much suffering and injustice in the world? But they found no reason to doubt that such puzzles were to be solved within the template provided by their theology. The morality of self-affirmation was firmly in control.
 
 The philosophical explosions of the late Enlightenment ended that morality’s long reign. The most influential philosophers insisted on a firm epistemological code. We can endorse our beliefs as true, they insisted, only if the best explanation of why we hold those beliefs vouches for their truth, and it can do that only if it shows those beliefs to be either the product of irresistible reason, like mathematics, or the effect of the impact of the natural world on our brains like the empirical discoveries of the nascent but already stunning natural sciences. That new epistemological regime posed an immediate problem for convictions about value, a problem that has challenged philosophy since. We are not entitled to think our moral convictions true unless we find these convictions either required by pure reason or produced by something “out there” in the world. Thus was born the Gibraltar of all mental blocks: that something other than value must underwrite value if we are to take value seriously.
 
@@ -143,6 +142,7 @@ Bentham (17)
 Christian (16)
 colonial philosophy (9), philosophical colonialism (10)
 compatibility (12)
+criteria (6)
 democracy (5): each citizen participates as an equal partner
  he has an equal voice and an equal stake in the result
 dignity (13, 419)
@@ -156,6 +156,7 @@ equality (2):
 ethical responsibility is objective (13)
 ethics: the study of how to live well (13)
  concern and responsibility
+foundational (8)
 free will
 Freud (17)
 Hobbes (17, 18)
@@ -164,7 +165,7 @@ impersonal consequentialism (18)
 independence (10)
 integration (5): unity of values
  integration is a necessary condition of truth
-intellectual responsibility about value is itself an important value
+intellectual responsibility about value is itself an important value (1)
 interpretation:
  depends on values
  we share moral concepts because we share social practices and experiences in which these concepts figure
@@ -172,6 +173,7 @@ interpretation:
  we disagree because we interpret the practices we share rather differently
  moral reasoning must be interpretive
 interpretive concepts (6), depending on values/descriping values
+  We share them because we share social practices and experiences in which these concepts figure
 justice: equality, liberty, democracy, law
 Kant (19)
 law (5): a branch of morality
@@ -191,10 +193,15 @@ moral responsibility/moral epistemology (12)
 morality: the study of how we must treat other people
 morons (9)
 naturalism: scientific and causal, without the help of God
+negative liberty (5)
 Nietzsche (18)
 objective: the recognition of what we should do
+objective truth (7)
+  - does not depend on how many people believe that it is true
 parameters vs. limitations (421)
+partnership (5)
 Plato and Aristotle (15)
+positive liberty (5)
 procedural justice (5)
 realists (9, 10, 67)
 Sartre (18)
