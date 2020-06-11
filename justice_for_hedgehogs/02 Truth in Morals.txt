@@ -42,7 +42,7 @@ Second, there is an apparently separate puzzle about how human beings might be t
 
 These two puzzles—and others that we shall uncover later—have for centuries encouraged learned scholars and great philosophers to reject different aspects of the ordinary view. I shall call those who do that “skeptics,” but I use that word in a special sense to include anyone who denies that moral judgments can be objectively true—true, that is, not in virtue of the attitudes or beliefs anyone has but true without regard to any such attitudes or beliefs. An unsophisticated form of such skepticism, which is often called “postmodernism,” has been much in vogue in the unconfident departments of Western universities: in faculties of art history, comparative literature, and anthropology, for example, and for a time in law schools as well.③ Devotees declare that even our most confident convictions about what is right or wicked are just emblems of ideology, just badges of power, just the rules of the local language games we happen to play. But as we shall see, many philosophers have been more subtle and inventive in their skepticism. In the balance of this chapter I distinguish different versions of philosophical skepticism about morality; in the rest of Part One we concentrate on arguments for each of those versions.
 
-Two Important Distinctions
+Two Important Distinctions (30)
 
 Internal and External Skepticism
 
@@ -60,7 +60,7 @@ Status skepticism evolved rapidly during the twentieth century. Initial forms we
 
 These early versions wore their skepticism on the sleeve. Hare said that a Nazi who would apply his strictures to himself, should he turn out to be a Jew, has not made a moral mistake. Later in the century external skepticism became more ambiguous. Allan Gibbard and Simon Blackburn, for examples, have called themselves, variously, “noncognitivists,” “expressivists,” “projectivists,” and “quasi-realists,” which suggests sharp disagreement with the ordinary view. Gibbard says that moral judgments should be understood as expressing acceptance of a plan for living: not “as beliefs with such and such content” but rather as “sentiments or attitudes, perhaps, or as universal preferences, states of norm acceptance—or states of planning.”⑥ But Blackburn and Gibbard both labor to show how, on their view, an expressivist who takes this view of moral judgment can nevertheless sensibly speak of moral judgments as true or false, and that he can also mimic in other, more complex, ways how people who hold the ordinary view speak about moral issues. But they treat these claims of truth as part of an activity that is nevertheless, they insist, different from describing how things are.
 
-Internal Skepticism
+Internal Skepticism (33)
 
 Because internal skeptics rely on the truth of substantive moral claims, they can only be partial error skeptics. There is no internal status skepticism. Internal skeptics differ from one another in the scope of their skepticism. Some internal skepticism is quite circumscribed and topical. Many people think, for instance, that the choices that adult partners make about the mechanics of sex raise no moral issues: they think that all judgments that condemn certain sexual choices are false. They ground this limited skepticism in positive opinions about what makes acts right or wrong; they do not believe that the details of adult consensual sex, whether heterosexual or homosexual, have any right-or wrong-making features. Other people are internal error skeptics about the place of morality in foreign policy. They say that it makes no sense to suppose that a nation’s trade policy can be either morally right or wrong. They reject positive moral judgments that many other people hold—that American policy in Latin America has often been unjust, for example—by appealing to the more general moral judgment that a nation’s officials should always act with only the interests of their own citizens in mind.
 
@@ -68,7 +68,7 @@ Other versions of internal error skepticism are much broader, and some are near 
 
 I have no quarrel with any form of internal skepticism in this part of the book. Internal skepticism does not deny what I wish to establish: that philosophical challenges to the truth of moral judgments are themselves substantive moral theories. It does not deny—on the contrary it assumes—that moral judgments are capable of truth. We shall be much concerned with internal skepticism later in the book, because my positive claims about personal and political morality presume that no global form of internal skepticism is correct. However, we should at least notice now an important distinction often overlooked. We must distinguish internal skepticism from uncertainty. I may be uncertain whether abortion is wrong: I may think the arguments on both sides reasonable and not know which, if either, is stronger. But uncertainty is not the same as skepticism. Uncertainty is a default position: if I have no firm conviction either way, then I am uncertain. But skepticism is not a default position: I need as strong an argument for the skeptical thesis that morality has nothing to do with abortion as for any positive view on the matter. We return to the important distinction between skepticism and uncertainty in Chapter 5.
 
-The Appeal of Status Skepticism
+The Appeal of Status Skepticism (35)
 
 Both forms of external skepticism—error and status skepticism—are different from the biological and social-scientific theories I mentioned earlier. Neo-Darwinian theories about the development of moral beliefs and institutions, for instance, are external but in no way skeptical. There is no inconsistency in holding the following set of opinions: (1) that a wired-in condemnation of murder had survival value in the ancestral savannahs, (2) that this fact figures in the best explanation why moral condemnation of murder is so widespread across history and cultures, and (3) that it is objectively true that murder is morally wrong. The first two of these claims are anthropological and the third is moral; there can be no conflict in combining the moral with the anthropological in this way.➇ So external skeptics cannot rely only on anthropology or any other biological or social science. They rely on a very different kind of putatively external theory: they rely on philosophical theories about what there is in the universe or about the conditions under which people can be thought to acquire responsible belief.
 
@@ -80,7 +80,7 @@ This apparent neutrality gives status skepticism a seductive appeal. I said earl
 
 External status skepticism is therefore much more popular among academic philosophers now than global internal skepticism or external error skepticism has ever been, and it is status skepticism that has infected contemporary intellectual life. I shall therefore concentrate on that form of skepticism, but I mean my arguments in the next few chapters to embrace all forms of external skepticism and, indeed, all forms of what might seem the opposite view: that we can have external, nonmoral reasons for believing that our moral opinions can be true. (Because the latter claim is often called philosophical “realism,” I will sometimes refer to those who hold it as “realists.”) Philosophy can neither impeach nor validate any value judgment while standing wholly outside that judgment’s domain. Internal skepticism is the only skeptical game in town. Perhaps it is neither true nor false that abortion is wicked or that the American Constitution condemns all racial preference or that Beethoven was a greater creative artist than Picasso. But if so, this is not because there can be no right answer to such questions for reasons prior or external to value, but because that is the right answer internally, as a matter of sound moral or legal or aesthetic judgment. (I explore that possibility in Chapter 5.) We can’t be skeptical about any domain of value all the way down.
 
-Disappointment?
+Disappointment? (37)
 
 I have tried to answer the two questions that I said give people pause about the ordinary view: What makes a moral judgment true? When are we justified in thinking a moral judgment true? My answer to the first is that moral judgments are made true, when they are true, by an adequate moral argument for their truth. Of course that invites the further question: What makes a moral argument adequate? The answer must be: a further moral argument for its adequacy. And so forth. That is not to say that a moral judgment is made true by the arguments that are in fact made for it: these arguments may not be adequate. Nor that it is made true by its consistency with other moral judgments. I argue in Chapter 6 that coherence is a necessary but not a sufficient condition of truth. We can say nothing more helpful than what I just said: a moral judgment is made true by an adequate case for its truth.
 
@@ -117,26 +117,33 @@ p.426
 
 Key concepts
 
-Archimedean (31, 60)
+Archimedean skepticism (17, 31, 60): skepticism that denies any basis for itself in morality or ethics
 Ayer (32)
  moral judgments are no different from other vehicles for venting emotions
 Blackburn (33)
+causality (34)
 counterfactual (34): the positive moral claims internal skeptics reject would be valid if certain conditions were satisfied
 Error skeptics
- hold that all moral judgments are false (32); it purports to rely only on value-neutral metaphysics
+ hold that all moral judgments are false (32); it purports to rely only on value-neutral metaphysics that there are no moral particles
+expressivists (33)
 external skeptics
  no true moral judgments at all
  rely on philosophical theories about what there is in the universe or about the conditions under which people can be thought to acquire responsible belief (35)
+facts (states of the physical world) vs. evidences (29)
 Gibbard (33)
  moral judgments should be understood as expressing acceptance of a plan for living
 Hare (32)
  treated moral judgments as disguised and generalized commands
 internal skeptics: partial error skeptics
+noncognitivists (33)
 postmodernism (30)
+projectivists (33)
+quasi-realists (33)
 quietism (25, 67)
 realism (37): we can have external, nonmoral reasons for believing that our moral opinions can be true
  causal impact hypothesis (70, 71)
 Status skeptics:
+ there are no moral facts
  all moral judgments have no descriptive status
  believe it is a mistake to treat moral judgments as descriptions of anything (32)
 uncertainty (34)
@@ -150,4 +157,4 @@ What makes a moral judgment true?
 When are we justified in thinking a moral judgment true?
  When we are justified in thinking that our arguments for holding it true are adequate arguments.
 
-A substantive theory of value must include a theory of truth in value.
+A substantive theory of value must include a theory of truth in value. (24)
