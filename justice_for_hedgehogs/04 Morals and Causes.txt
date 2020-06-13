@@ -8,7 +8,7 @@ Is the same union of explanation and justification available for morality? Has t
 
 I have just mooted two hypotheses. The first is the causal impact hypothesis (CI). This holds that moral facts can cause people to form moral convictions that match those moral facts. Moral realists accept CI and external skeptics reject it. I argue that in this matter realists are wrong and external skeptics right. The second is the causal dependence hypothesis (CD). This supposes that unless the causal impact hypothesis is true, people can have no sound reason to think that any of their moral judgments is a correct report of moral truth. External skeptics embrace this second hypothesis. So, apparently, do many realists, because they would otherwise not be so anxious to defend the causal impact hypothesis. I argue that in this matter both realists and external skeptics are wrong. There is an obvious and important difference between the two hypotheses. CI includes a claim of scientific fact: a matter of particle physics, biology, and psychology. CD is a moral claim: about what counts as an adequate reason for holding a moral conviction.
 
-The Causal Impact Hypothesis
+The Causal Impact Hypothesis (70)
 
 The Stakes
 
@@ -38,7 +38,7 @@ Nothing in this story even begins to suggest, however, that the force causes peo
 
 Some moral philosophers have fallen into the fashion of speaking of their “intuitions” in moral matters. There are two ways to understand that usage. We might take them to mean that they have in some way or to some degree perceived the truth of what they claim as an intuition. If so, then they mean to offer their intuition as an argument for the truth of what they say they have intuited, as an eyewitness does, for instance, when he says he saw the accused at the scene of the crime. They claim some version of CI. Or they might mean simply to report what they believe, which of course supplies nothing by way of argument. Several times in this book I report what I believe about ethical and moral issues, and I seek to elicit your agreement and to remind you of what, I hope, you also believe. In Chapter 6 I speak about the importance of such beliefs: they determine, in part, what counts as ethical and moral responsibility. But they are not independent arguments for what you or I believe.
 
-The Causal Dependence Hypothesis
+The Causal Dependence Hypothesis (76)
 
 Too Quick?
 
@@ -66,7 +66,7 @@ Even in this absurd invented case, that is, when your opinions are laughably acc
 
 We must judge CD, which is a theory of moral responsibility, as a moral thesis: about moral epistemology. We can accept it only if we can make a compelling moral case in its favor. But we cannot. Facts about how someone tested his moral opinions are indeed pertinent, as we shall later see, in judging whether he has acted responsibly in holding, expressing, and following them. But nothing turns on the best causal explanation of how he came to the opinions he tests or, indeed, of how he decided what tests to use.
 
-Conviction and Accident
+Conviction and Accident (80)
 
 But isn’t it worrying that your most profound moral convictions are only accidents and therefore can be only accidentally true? If affirmative action is fair and you think it is, then haven’t you been as lucky as the man who believes, correctly, that the time is 3:15 because his watch stopped at that time yesterday? You have been lucky because nothing in the best explanation of how you came to form your view—perhaps you did flip a coin to decide whether to hear a lecture—bears any relation to the truth of that view. That seems appalling: if it really is only an accident when your convictions are true, then—given the number of possible moral convictions—it is very unlikely that your convictions are true.➈
 
@@ -80,7 +80,7 @@ It will now be objected that I am cheating: that we must estimate the chances th
 
 We must assume the truth of some convictions to make any judgment, even a probability judgment, about the truth of any other conviction, and once we have done that the truth of other convictions must be a matter of judgment or inference, not chance. Any thought of a lottery disappears. The key methodological question is always one of degree: What and how much should we assume is true in order to judge all or part of the rest? It would be pointless to ask what the chances are of any moral conviction being true without some assumptions about what makes a moral conviction true. The supposition that all moral opinions are equally likely to be true is itself a moral opinion—and a crazy one. But when you allow yourself even indispensable opinions about good moral reasoning, then any thought that your other moral convictions could be only accidentally true evaporates. The fear of accident, though epidemic, is only another symptom of not fully grasping the independence of value, of thinking that somehow, somewhere, there must be some tether to the causal order if morality is not to float away into airy nothing.
 
-Integrated Epistemology
+Integrated Epistemology (82)
 
 The causal dependence hypothesis is a piece of Archimedean epistemology, and Archimedean epistemology is misconceived. There is no such thing as an entirely abstract condition on knowledge.⑪ Every thought is a thought about something and depends, for its sense and plausibility, on what it is a thought about. Responsibility in science means, at least for the most part, responding to evidence, and something is genuine evidence of some fact only if it exists because that fact exists. That explains why CD is plausible in science. It also explains why CD is senseless in those domains, like morality, that are matters of argument, not evidence. Archimedean epistemology fails because a theory of knowledge must take its place in and with the rest of our opinions. Abstract epistemology and concrete belief must fit and support each other, and neither must be given a veto over the other.
 
@@ -104,7 +104,7 @@ So integrated epistemology must guard against two tyrannies: the tyranny of an A
 
 That seems to me the situation of many people of deep religious conviction who cannot but believe: their faith endures even when they accept that they lack a good account of how that faith can be woven into a general account of causation that sustains its causal claims. If you can’t help believing something, steadily and wholeheartedly, you’d better believe it, not of course because the fact of your belief argues for its truth but because you cannot think any argument a decisive refutation of a belief it does not loosen. In the beginning and in the end is the conviction. The struggle for integrity lies in between.
 
-Moral Progress?
+Moral Progress? (86)
 
 If we abandon the causal impact and causal dependence hypotheses, do we lose any other convictions of independent importance? Crispin Wright suggests one ground of concern.⑰ If we abandon all claims of causal impact, then we can no longer explain moral progress in what might seem an appealing way: as the gradual falling away of impediments to the impact of moral truth on human sensibility. Of course we would not then have to deny the reality of moral progress. Anyone who is convinced that slavery is wrong and knows that his view is now shared by a great many people will think that general moral opinion has improved at least in that respect since slavery was widely practiced and defended. Perhaps sufficient other examples can be found to allow us the much more ambitious claim that moral opinion has improved broadly on all fronts. How much progress we think we can claim, in that simple comparative sense, depends only on our own moral convictions and our sociological and historical beliefs about the distribution of parallel convictions now and in the past.
 
@@ -197,12 +197,14 @@ accidents (80): explanation (history) vs. justification (moral arguments)
  -a system of interrelated values
  -general and basic convictions
 causal dependence hypothesis (CD, 70): unless the causal impact hypothesis is true, people can have no sound reason to think that any of their moral judgments is a correct report of moral truth
- a moral claim
-causal impact hypothesis (CI, 70): moral facts can cause people to form moral convictions that match those moral facts
+ a moral claim: no CI, no correct moral judgments
+causal impact hypothesis (CI, 70): moral facts can cause people to form moral convictions that match those moral facts; includes a claim of scientific fact
  includes a claim of scientific fact: the causal relation
  vs. devine inspiration (72)
  counterfactual question (73)
  CI is a mistake because it violates Hume’s principle (75)
+counterfactual (73)
+ - moral attributes “supervene” on ordinary facts
 creationism (84)
 science: the causal theory
  the best explanations of belief validate belief
