@@ -191,6 +191,8 @@ ground (116)
 humanity (112)
 
 integrity (101)
+  the nerve of responsibility is integrity and that the epistemology of a morally responsible person is interpretive
+  We are morally responsible to the degree that our various concrete interpretations achieve an overall integrity so that each supports the others in a network of value that we embrace authentically
 
 interpretation (101): the process of seeking meaning in an event or achievement or institution
 
@@ -209,6 +211,11 @@ responsibility (102)
  -assignment
  -liability
  -judgmental: someone has judgmental responsibility for some act if it is appropriate to rank his act on some scale of praise or criticism
+why does responsibility matter?
+- we respect people who accept the burden of responsibility
+benefits:
+-most vulnerable members of any community
+-basic shared respect even in the face of moral diversity
 
 moral properties “supervene” on ordinary properties (114)
  -barely true: physical facts in different possible worlds
@@ -216,9 +223,5 @@ moral properties “supervene” on ordinary properties (114)
  -true value judgments are supported by reasons
 
 The distinction between accuracy and responsibility in moral conviction is a further dimension of what I called the ordinary view (100)
-
-the nerve of responsibility is integrity and that the epistemology of a morally responsible person is interpretive (101)
-
-We are morally responsible to the degree that our various concrete interpretations achieve an overall integrity so that each supports the others in a network of value that we embrace authentically.
 
 There is no hierarchy of moral principles built on axiomatic foundations (117)
