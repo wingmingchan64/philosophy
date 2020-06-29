@@ -251,15 +251,27 @@ Are values human products? Related to intelligence?
 ===============================================================================
 Translation
 
+adequate 充分的
+argument 論證
+case, to make a for 為…提供充分的理由
+conscience 良心
+conviction 信念
 democracy 民主
 dignity 自尊
 equality 平等
-ethics 待己道德
+ethics 待己之道
+ethical fact 待己之道的真相
+fact 真相
 freedom 無拘束
 interpretation 詮釋
+judgment 判斷
 justice 正義
 liberty 自由
-morality 待人道德
+morality 待人之道
+moral fact 待之人道的真相
+responsible 負責任的
 self-interest 自我利益
 self-respect 自重
+substantive 實質性的
 to live well 好好地活
+uncertainty 不確定性

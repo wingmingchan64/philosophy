@@ -117,7 +117,7 @@ p.426
 
 Key concepts
 
-Archimedean skepticism (17, 31, 60): skepticism that denies any basis for itself in morality or ethics
+Archimedean skepticism (17, 25， 31, 60): skepticism that denies any basis for itself in morality or ethics
 Ayer (32)
  moral judgments are no different from other vehicles for venting emotions
 Blackburn (33)
@@ -142,19 +142,19 @@ quasi-realists (33)
 quietism (25, 67)
 realism (37): we can have external, nonmoral reasons for believing that our moral opinions can be true
  causal impact hypothesis (70, 71)
+scientific truth: statements about the physical world are made true by the actual state of the physical world
 Status skeptics:
  there are no moral facts
  all moral judgments have no descriptive status
  believe it is a mistake to treat moral judgments as descriptions of anything (32)
+truth and value: a substantive theory of value must include a theory of truth in value. (24)
 uncertainty (34)
 
 objectively true: true not in virtue of the attitudes or beliefs anyone has but true without regard to any such attitudes or beliefs
 The ordinary view: at least some moral opinions are objectively true, and moral argument is needed to establish which are which; treats moral judgments as descriptions of how things actually are (32)
  against the ordinary view: what evidence and how to perceive the evidence
 
-What makes a moral judgment true?
+What makes a moral judgment true? (37)
  Moral judgments are made true, when they are true, by an adequate moral argument for their truth.
 When are we justified in thinking a moral judgment true?
  When we are justified in thinking that our arguments for holding it true are adequate arguments.
-
-A substantive theory of value must include a theory of truth in value. (24)
