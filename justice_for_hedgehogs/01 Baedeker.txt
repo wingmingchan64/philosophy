@@ -136,12 +136,15 @@ p.425
 
 Key concepts:
 
+adverbial value (13)
 agreement/disagreement (in morality) (7): value agreement/disagreement
 anti-realists (9, 10)
+Baedeker guides: travel guide books
 Bentham (17)
 Christian (16)
 colonial philosophy (9), philosophical colonialism (10)
 compatibility (12)
+consequentialism (18)
 criteria (6)
 democracy (5): each citizen participates as an equal partner
  he has an equal voice and an equal stake in the result
@@ -149,10 +152,11 @@ dignity (13, 419)
  two principles of (420): responsibility and being positive
 distributive justice (2, 3), resource equality
 economist (17)
+Enlightenment (16)
 equality (2):
  two reigning principles of a legitimate government
- equal concern for fate
- full respect for personal/ethical responsibility
+ - equal concern for fate
+ - full respect for personal/ethical responsibility
 ethical responsibility is objective (13)
 ethics: the study of how to live well (13)
  concern and responsibility
@@ -162,7 +166,7 @@ Freud (17)
 Hobbes (17, 18)
 Hume (17)
 impersonal consequentialism (18)
-independence (10)
+independence of value (9, 10)
 integration (5): unity of values
  integration is a necessary condition of truth
 intellectual responsibility about value is itself an important value (1)
@@ -175,7 +179,7 @@ interpretation:
 interpretive concepts (6), depending on values/descriping values
   We share them because we share social practices and experiences in which these concepts figure
 justice: equality, liberty, democracy, law
-Kant (19)
+Kant’s thesis/principle (14, 19)
 law (5): a branch of morality
 liberty: that part of your freedom that government would do wrong to constrain
 living well vs. having a good life (419)
@@ -186,6 +190,7 @@ metaphysical independence of value (9):
  the moral realm is the realm of argument
  independence from science and metaphysics
 Mill (18)
+mind-independence (10)
 moral judgments: interpretations of basic moral concepts (12)
 moral objectivity (8)
 the moral realm is the realm of argument, not brute, raw fact (11)
@@ -200,7 +205,9 @@ objective truth (7)
   - does not depend on how many people believe that it is true
 parameters vs. limitations (421)
 partnership (5)
+philosophical colonialism (10)
 Plato and Aristotle (15)
+pluralism (10, 425)
 positive liberty (5)
 procedural justice (5)
 realists (9, 10, 67)
@@ -240,3 +247,19 @@ Do moral truths exist independent from the existence of man?
 -the innate capability of man to interact with truths
 
 Are values human products? Related to intelligence?
+
+===============================================================================
+Translation
+
+democracy 民主
+dignity 自尊
+equality 平等
+ethics 待己道德
+freedom 無拘束
+interpretation 詮釋
+justice 正義
+liberty 自由
+morality 待人道德
+self-interest 自我利益
+self-respect 自重
+to live well 好好地活
