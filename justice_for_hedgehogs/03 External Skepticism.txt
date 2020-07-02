@@ -76,7 +76,7 @@ If the debate is not illusory, and if it is not about standard usage, then what 
 
 That larger structure must answer the question, among others, why a person should care about what he has reason to do. But that is a normative question, not a psychological or motivational one; it asks not whether a person does care but whether he should care. A conception of rationality would be a poor one—it could serve no justifying purpose—if it declared that someone has a reason to get what he wants even if getting it would be bad for him. So an ethical theory—a theory about what is good or bad for people—must be part of a successful theory of reasons and rationality: the alternative conception I described, which ties rationality to ethics, is therefore a better conception. Later in this book, in Parts Three and Four, I argue for a particular ethics and then for an interpretive connection between ethics and morality. If I am right, then someone who lives as Stalin did has a bad life: his life is bad for him even if he does not recognize that it is. Williams had a different ethical theory. He thought that what is good or bad for people depends only on what they genuinely want. He was skeptical about any more-objective ethical or moral truth, and he therefore denied the possibility of categorical reasons. I believe, and will argue, that there are objective ethical truths and therefore that there are indeed categorical reasons. In any case, a philosopher cannot properly argue for external error skepticism by assuming that there are no categorical reasons. He must argue in the opposite direction: he can deny categorical reasons only if he has already and independently embraced an error skepticism about ethics.
 
-Status Skepticism
+Status Skepticism (52)
 
 Two Versions
 
@@ -128,7 +128,7 @@ He might now claim to find a different philosophical assumption in my further cl
 
 The thesis that moral wrongness is a secondary property is a first-order substantive moral judgment. Suppose social scientists discovered that, contrary to what you and I think, contemplating torture does not in fact outrage even most normal people. You would still think that torture is wicked, I assume, but someone who believed that moral properties are secondary properties, so that the wrongness of torture could only consist in its disposition to outrage most normal people, would then disagree with you about that substantive moral issue. Even if all normal people do think that torture is wicked, the dispositional account of its wickedness is not neutral about morality, because it claims not just that most or normal people do react to torture in a particular way but that the wickedness of torture just consists in that reaction, and that further claim yields conditional or counterfactual statements that are both substantive and controversial. Which conditional or counterfactual claims follow from the dispositional thesis depends on the precise form the thesis takes; it depends, in particular, on how far and in which way the extension of moral properties is supposed to be fixed by our own natural history.⑰ That does not mean that moral properties are primary. But it does mean that the argument over whether they are is a substantive moral dispute.
 
-Different Language Games?
+Different Language Games? (59)
 
 Richard Rorty
 
@@ -150,7 +150,7 @@ This version of the two-games strategy has an evident advantage: it allows an av
 
 Suppose a self-described “projectivist,” playing a philosophy game, declares that in reality moral convictions must be understood as emotional projections onto a morally inert world. But later, playing the morality game, he declares that the wrongness of torture has nothing to do with projecting attitudes of disapproval; torture, he says, would be wrong no matter what attitudes or emotions anyone had about it. Later still, now back in his philosophical game, he declares his last statement itself to be only the projection of an attitude. He treats all of my further claims in the same way. When in the morality game, he says that moral truths are timeless and stitched into the fabric of reality, and then, back in the philosophy game again, he reports his last statement to be a particularly florid projection.
 
-Now the projectivist is in the difficulty I described for Rorty. He must show how his statements made in the morality game are consistent with those he makes in the philosophy game. He can do this, as we do in the world-offiction game, only by replacing his statement in either game with a translation that dissolves the apparent contradiction. But he cannot do that. He can’t replace what he says in the morality game with any statement, while still in that game, that implies or allows that wrongness is only a matter of projection. He can’t replace his statement in the philosophy game by declaring or implying there that wrongness does not depend on projection. His strategy swallows itself like the Cheshire cat leaving only a smile behind. (Michael Smith holds a contrary view.⑳)
+Now the projectivist is in the difficulty I described for Rorty. He must show how his statements made in the morality game are consistent with those he makes in the philosophy game. He can do this, as we do in the world-of-fiction game, only by replacing his statement in either game with a translation that dissolves the apparent contradiction. But he cannot do that. He can’t replace what he says in the morality game with any statement, while still in that game, that implies or allows that wrongness is only a matter of projection. He can’t replace his statement in the philosophy game by declaring or implying there that wrongness does not depend on projection. His strategy swallows itself like the Cheshire cat leaving only a smile behind. (Michael Smith holds a contrary view.⑳)
 
 Have any actual philosophers employed this self-defeating version of the two-game strategy? I said, in Chapter 2, that the skepticism of the prominent philosophers Allan Gibbard and Simon Blackburn, who call themselves “expressivists” and “quasi-realists,” is open to doubt. I do regard both as skeptical of the ordinary view. But both have denied this and suggested that their own views are much more like my own than I allow.㉑ So I should put my claim more cautiously: if they can properly be regarded as skeptical, it is this second, two-games strategy they use to defend that skepticism.㉒ The exegetical issue is not of direct importance, however; my aims in this book do not include defending particular interpretations of the work of other contemporary philosophers.
 
@@ -296,6 +296,8 @@ normative: should or should not
 quietism (67)
 reason, to have a (49)
 Shafer-Landau (41)
+skepticism: any moral skepticism is itself a substantive moral claim (44)
+  skepticism is itself a moral position (45)
 status skeptics:
  speech acts: embracing a moral conviction vs. describing the conviction as true (52)
  semantic independence: something in a moral proposition that is not moral/that is external (otherwise the denial itself will be a moral claim)
@@ -330,9 +332,29 @@ On morals and reasons: (49)
 - since there are no categorical reasons, there are no ethical truths
 Having a reason is an interpretive concept
 
-Speech acts: (53)
+status skepticism (52):
+- moral judgment: torture is always wrong
+  - not description of facts
+  - not a proposition and has no truth value
+  - cannot be denied
+- philosophical judgment: the wrongness of torture is a matter of objective truth
+  - if not a proposition, then status skepticism is not stating anything
+  - if a proposition, then what's the difference between the moral judgment and the philosophical judgment?
+  - a philosophical judgment cannot be a moral judgment
+  - there must be something nonmoral
+  - that nonmoral part must be either true or false
+
+speech acts (53):
 - torture is always wrong: embracing a moral conviction, first-order projection of emotion
 - the wrongness of torture is a matter of objective truth: second-order philosophical judgment
-semantic independence: there must be something nonmoral in the second-order philosophical judgment that distinguishes it from the first-order projection of emotion
-skeptical pertinence: whose denial has skeptical implications
+1. semantic independence: there must be something nonmoral in the second-order philosophical judgment that distinguishes it from the first-order projection of emotion
+2. skeptical pertinence: whose denial has skeptical implications
+A. The difference between a moral judgment and a philosophical judgment cannot be semanitic
+B. cannot define beliefs in such a way to maintain moral judgments are not beliefs;  both the moral judgment and the philosophical judgment are beliefs
+C. no use to introduce the distinction between primary and secondary qualities because judgments involving them are substantive moral claims
 
+language games (59):
+- different universe of discourse
+- must offer a way to understand one or the other of the apparently contradictory claims that dissolves the conflict
+- cannot turn all philosophical judgments into moral judgments
+- there is no way to clearly indicate the switch of games
