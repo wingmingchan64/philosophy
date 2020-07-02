@@ -122,6 +122,7 @@ Ayer (32)
  moral judgments are no different from other vehicles for venting emotions
 Blackburn (33)
 causality (34)
+cosmology (41): as a domain of thought
 counterfactual (34): the positive moral claims internal skeptics reject would be valid if certain conditions were satisfied
 Error skeptics
  hold that all moral judgments are false (32); it purports to rely only on value-neutral metaphysics that there are no moral particles
@@ -130,11 +131,15 @@ external skeptics
  no true moral judgments at all
  rely on philosophical theories about what there is in the universe or about the conditions under which people can be thought to acquire responsible belief (35)
 facts (states of the physical world) vs. evidences (29)
+  - physical facts impinge on human minds
 Gibbard (33)
  moral judgments should be understood as expressing acceptance of a plan for living
 Hare (32)
  treated moral judgments as disguised and generalized commands
 internal skeptics: partial error skeptics
+moral conscience (28)
+moral facts cannot create any impression of themselves in human minds (29)
+morality (41): as a domain of thought
 noncognitivists (33)
 postmodernism (30)
 projectivists (33)
@@ -147,8 +152,12 @@ Status skeptics:
  there are no moral facts
  all moral judgments have no descriptive status
  believe it is a mistake to treat moral judgments as descriptions of anything (32)
-truth and value: a substantive theory of value must include a theory of truth in value. (24)
 uncertainty (34)
+value (24)
+  - philosophically independent
+  - a separate domain within which truth and knowledge must be sought
+  - a substantive theory of value must include a theory of truth in value
+  - there are truths about values
 
 objectively true: true not in virtue of the attitudes or beliefs anyone has but true without regard to any such attitudes or beliefs
 The ordinary view: at least some moral opinions are objectively true, and moral argument is needed to establish which are which; treats moral judgments as descriptions of how things actually are (32)
