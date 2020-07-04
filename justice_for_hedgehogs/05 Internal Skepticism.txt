@@ -65,5 +65,9 @@ p.449
 
 Key concepts:
 
+adverbial value (88)
+default (90)
 on a par (89)
-indeterminacy (90)
+indeterminacy (89, 90)
+performance (88)
+uncertainty (91)
