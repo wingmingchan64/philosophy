@@ -273,7 +273,13 @@ liberty 自由
 morality 待人之道
   the study of how we must treat other people 如何善待別人的學問
 moral fact 待之人道的真相
-responsible 負責任的
+normative 關乎準則的
+responsibility
+  virtue: 負責心
+  relational： 責任
+responsible
+  virtue: 負責任的、有負責心的
+  relational： 負責、負有責任
 self-interest 自我利益
 self-respect 自重
 substantive 實質性的
