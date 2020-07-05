@@ -255,7 +255,7 @@ p.450
 
 ㉜ Frederic Jameson, The Political Unconscious: Narrative as a Socially Symbolic Act (London: Methuen, 1981), 73, 85.
 
-㉝ Terry Eagleton, The Function of Criticism: From the Spectator to PostStructuralism. London: Verso.
+㉝ Terry Eagleton, The Function of Criticism: From the Spectator to Post-Structuralism. London: Verso.
 
 ㉞ See Lyn Mikel Brown, Girlfighting: Rejection and Betrayal among Girls (New York: New York University Press, 2003).
 
@@ -301,12 +301,23 @@ formalism (135)
 
 ineffability (128)
 
+inquiry (152)
+- intrinsic goal is to find the truth about something
+- justifying goals: goals or purposes that we believe justify trying to find that truth
+- science: intrinsic goal only
+- interpretation: justifying and intrinsic goals merge
+- science: chain of facts
+- interpretation: web of values
+- science: axiomatic
+- interpretation: holistic, no hierarchy
+
 intention/purpose (125)
 
 interpretation:
 -intrepretative
 -a social phenomenon
 -truth-seeking
+-purposive
 -three stages:
  -we interpret social practices; we individuate those practices
  -we attribute some package of purposes to the genre or subgenre we identify as pertinent
@@ -319,6 +330,8 @@ occasions of interpretation:
 -independent
 -complementary
 -competitive
+
+relativism (145): the thesis that correct standards of interpretation are relative to different schools or communities of interpreters
 
 science vs. interpretation (153)
 -science: intrinsic goals vs. justifying goals
