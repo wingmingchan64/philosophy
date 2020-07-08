@@ -181,8 +181,7 @@ p.457
 
 ➄ Though I was once tempted. See Dworkin, Sovereign Virtue, 263–67; and Dworkin, “Foundations of Liberal Equality,” 190, 195, 258–62.
 
-➅ Christine Jolls has very usefully compared this distinction to one made by social scientists studying people’s contentment with their lives (Jolls, “Dworkin’s Living
-Well and the Well-Being Revolution,” in Symposium: Justice for Hedgehogs: A Conference on Ronald Dworkin’s Forthcoming Book [special issue], Boston University Law Review 90, no. 2 [April 2010]: 641). Performance value, she suggests, may be compared to people’s ranking of their experiences one by one, while product value is comparable to their ranking of their life as a whole. She points out, however, correctly, that my remarks about the importance of the narrative quality of a life as a whole qualify these associations. I take the research she describes to suggest that people evaluate experiences differently when placed in the context of a whole life. Commuting ranks very low as an isolated event, but the tedium disappears in any evaluation of the life engaged in an occupation that commuting permits. The oncologist cannot enjoy his conversation with lung cancer victims, but he takes satisfaction in his career nevertheless. It is the isolation of the discrete lived events evaluated in the Princeton study she describes that, to my mind, renders the study, undoubtedly important in a variety of ways, less significant for ethics than the narrative evaluations that Jolls compares them with.
+➅ Christine Jolls has very usefully compared this distinction to one made by social scientists studying people’s contentment with their lives (Jolls, “Dworkin’s Living Well and the Well-Being Revolution,” in Symposium: Justice for Hedgehogs: A Conference on Ronald Dworkin’s Forthcoming Book [special issue], Boston University Law Review 90, no. 2 [April 2010]: 641). Performance value, she suggests, may be compared to people’s ranking of their experiences one by one, while product value is comparable to their ranking of their life as a whole. She points out, however, correctly, that my remarks about the importance of the narrative quality of a life as a whole qualify these associations. I take the research she describes to suggest that people evaluate experiences differently when placed in the context of a whole life. Commuting ranks very low as an isolated event, but the tedium disappears in any evaluation of the life engaged in an occupation that commuting permits. The oncologist cannot enjoy his conversation with lung cancer victims, but he takes satisfaction in his career nevertheless. It is the isolation of the discrete lived events evaluated in the Princeton study she describes that, to my mind, renders the study, undoubtedly important in a variety of ways, less significant for ethics than the narrative evaluations that Jolls compares them with.
 
 ➆ See Thomas Nagel, Mortal Questions (Cambridge: Cambridge University Press, 1991); and Bernard Williams, “Moral Luck,” in Moral Luck (Cambridge: Cambridge University Press, 1981), 20–40.
 
@@ -223,6 +222,7 @@ Well and the Well-Being Revolution,” in Symposium: Justice for Hedgehogs: A Co
 Key concepts:
 
 authenticity requires that we break out of distinctly moral considerations to ask what form of moral integrity fits best with how we want to conceive our personality and our life (192)
+authenticity is not autonomy
 
 autonomy (212)
 
@@ -233,8 +233,11 @@ character/style (209/210)
 consciousness (216)
 
 dignity: self-respect and authenticity (203)
-  self-respect: one's life must be a successful performance; objective importance of my living well
-  authenticity: responsibility for identifying what counts as success
+  self-respect: one's life must be a successful performance; objective importance of my living well; an attitude toward ethical truth
+  - recognition respect
+  authenticity: responsibility for identifying what counts as success; responsibility
+
+duty vs. consequence; living well vs. having a good life; product vs. performance (195)
 
 ethical parameters (215)
 
@@ -275,6 +278,8 @@ performance (197): the final value of our lives
 performance value (197)
 
 product value (197)
+
+religion and science (202)
 
 religious temperament (215)
 
