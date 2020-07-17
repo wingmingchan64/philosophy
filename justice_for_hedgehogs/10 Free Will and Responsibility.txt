@@ -251,7 +251,7 @@ Nagel here states an important, and I believe popular, argument in favor of the 
 
 What about character? Having a bad character is different from posing a threat; someone with chicken pox poses a threat but need not have a bad character. On views I find plausible the distinction, once again, trades in concepts of responsibility. Someone has a bad character if he is prone to act badly—to do what it is wrong to do. If there is nothing that it is wrong to do, then no one has a bad character. Some people—those who are prone to kill as well as those with chicken pox—are dangerous because they are likely to cause harm. But that is the most we can say. What about liability responsibility? If I am not to blame for an act that caused someone else damage, if I did nothing wrong in acting that way, then why should I bear his cost?
 
-What about prudence? I would think myself imprudent if I was hit by lightning taking my small boat out in an expected storm, but not if I was struck in a wholly unexpected and unpredictable one. But if determinism erases all grounds of selfblame in the former case, because it was predetermined that I would act in that way, then what ground is left for declaring myself imprudent? I can think I have a reason for acting in one way rather than another only when I take that alleged reason to affect how I should behave. If determinism means that there is no way I should behave because nature or fate has already determined how I will behave, then its annihilating power is catholic across reasons. If determinism rules out having reasons of some particular kind—reasons to criticize myself if I act in one way rather than another—then it rules out the very idea of having reasons to act in one way rather than another. Hurricanes are not blameworthy when they kill. Nor do they violate moral norms or display morally bad character. Nor are they imprudent when they swerve into cold air and dissipate. If determinism is true and means that we have no judgmental responsibility, then we are all—hurricanes and people—just large and small disturbances on nature’s sea.
+What about prudence? I would think myself imprudent if I was hit by lightning taking my small boat out in an expected storm, but not if I was struck in a wholly unexpected and unpredictable one. But if determinism erases all grounds of self-blame in the former case, because it was predetermined that I would act in that way, then what ground is left for declaring myself imprudent? I can think I have a reason for acting in one way rather than another only when I take that alleged reason to affect how I should behave. If determinism means that there is no way I should behave because nature or fate has already determined how I will behave, then its annihilating power is catholic across reasons. If determinism rules out having reasons of some particular kind—reasons to criticize myself if I act in one way rather than another—then it rules out the very idea of having reasons to act in one way rather than another. Hurricanes are not blameworthy when they kill. Nor do they violate moral norms or display morally bad character. Nor are they imprudent when they swerve into cold air and dissipate. If determinism is true and means that we have no judgmental responsibility, then we are all—hurricanes and people—just large and small disturbances on nature’s sea.
 
 Could we at least save judgments about good and bad states of affairs? Can’t we say that it is good when people are happier, even if no one ever has judgment responsibility for bringing that state of affairs about? That must depend, again, on your theory of why states of affairs are good or bad. It is good when great cathedrals are built and when people establish lives full of pleasure and achievement in their own or others’ eyes. If robots could be made happy, however, I would see no value in their happiness, though much value in the science that made them happy. If people lack judgmental responsibility, there might be no more value in their own happiness than in robotic happiness.
 
@@ -293,8 +293,7 @@ Could we at least save judgments about good and bad states of affairs? Can’t w
 
 ㉖ We must distinguish opportunity from capacity in cases in which someone’s mistaken view of the world leads to bad results. Someone who is normally good at forming beliefs about the world doesn’t realize that the white substance in the sugar bowl is arsenic. He is judgmentally responsible for spooning it into his guest’s coffee: it is appropriate to hold his act up to standards of proper conduct. Whether he is at fault depends on whether his mistake was reasonable in the circumstances, which in turn depends on whether he had a reasonable opportunity to discover the truth and  negligent in not taking that opportunity. The idiot’s case is different; it would be wrong to approach the question of his responsibility in that way. Instead we should say that he is not judgmentally responsible for his acts: it is a mistake to treat his behavior as subject to ethical or moral evaluation. I am grateful to a reader for the Harvard University Press for suggesting that I distinguish the ordinary-mistake kind of case.
 
-㉗ See quotations from Elbert Hubbard and Edna St. Vincent Millay on
-ThinkExist.com.
+㉗ See quotations from Elbert Hubbard and Edna St. Vincent Millay on ThinkExist.com.
 
 ㉘ Anita Allen believes, rightly, that the discussions of mental disease in this chapter and elsewhere are unsophisticated (Allen, “Mental Disorders and the ‘System of Judgmental Responsibility,’ ” BU: 621). She thinks that a competent philosophical account of these pathologies has not been written. I had no intention to provide such an account but only to characterize mental disease sufficiently to rebut the assumption that our attitudes toward the judgmental responsibility of victims of such disease shows that we accept the causal control principle.
 
@@ -312,7 +311,7 @@ Key concepts:
 
 capacities essential to responsibility (226)
 - to form true beliefs
-- to match our decisions to our values
+- to match our decisions to our values; to match his decisions to his normative personality
 
 capacity control principle (228):
   - locates responsibility within the brackets of an ordinary life lived from a personal perspective
@@ -353,19 +352,27 @@ internal phenomenal perspective (233)
 
 judgmental responsibility (221, 223): Someone has judgmental responsibility for an act if it is appropriate to appraise his act against critical standards of performance
 
-regulative capacity (245): the capcity to match decisions to normative personality
+location of judgmental responsibility (229)
+- causal:
+  - places our mental life in the context of the natural world
+  - scientific judgment of causation
+- capacity:
+  - locates responsibility within the brackets of an ordinary life lived from a personal perspective
+  - ethical independence
 
 narrative (244): a life with integrity achieved by weaving values of character
 
-normative personality (226)
+normative personality (226): his settled desires, ambitions, and convictions
 
 rationality (234)
 - we make decisions on the basis of our beliefs and values
 - beliefs and values are largely shaped by the world and culture and personal history
 
+regulative capacity (245): the capcity to match decisions to normative personality
+
 responsibility system:
-- making the right decisions
 - capacities to make decisions
+- making the right decisions
 
 1. you cannot choose without supposing that there is a better and a worse choice for you to make
 2. deciding includes assuming judgmental responsibility; the connection is internal and independent of any premise about the causes of decision
@@ -387,3 +394,7 @@ Capacity control: points observed:
 - we are responsible for our character as well as our decisions: integrity again
 - The capacity principle supposes a threshold level of these capacities
 - ethical life presupposes a constant reacting to the environment
+
+what's special about us? (230)
+- dignity
+- decision making
