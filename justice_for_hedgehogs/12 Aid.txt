@@ -129,10 +129,16 @@ metric of harm (275): how far it deprives him of the ordinary opportunities peop
 
 metric of well-being (273)
 
-scale of assessment: test for when to help (275)
-- metric of harm
-- metric of cost
-- confrontation
+how we should treat other people:
+- no metric of well-being
+- well-being is not a commodity
+- attitude as a guide
+- rescue cases: scale of assessment: test for when to help (275)
+  - harm: how far the danger deprives him of the ordinary opportunities people have to pursue whatever ambitions they choose
+  - cost
+  - degree of confrontation
+    - particularization
+	- proximity
 
 we have much stricter responsibilities not to harm strangers than we have to help them (271)
 
