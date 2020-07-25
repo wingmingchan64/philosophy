@@ -154,12 +154,16 @@ Key concepts:
 
 general political philosophy treats legislative rights; a theory of law treats legal rights
 
+institutionalization (405)
+
 interpretivism (401): law includes not only the specific rules enacted in accordance with the community’s accepted practices but also the principles that provide the best moral justification for those enacted rules; law, an interpretive concept
 
 legal positivism (401): law and morality are two completely independent systems
 
 legal rights are those that people are entitled to enforce on demand, without further legislative intervention, in adjudicative institutions that direct the executive power of sheriff or police (406)
+- immediately enforceable on demand
 
 legislative rights (406): rights that the community’s lawmaking powers be exercised in a certain way
+- of no immediate force
 
 secondary rules (405)
